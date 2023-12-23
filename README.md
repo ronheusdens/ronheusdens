@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronheusdens
-- 👀 I’m interested in php/docker/laravel
-- 🌱 I’m currently learning php
+- 👀 I’m interested in c/php/laravel
+- 🌱 I’m currently learning c
 - 💞️ I’m currently not looking to collaborate on anything
 - 📫 How to reach me: ron.heusdens@gmail.com
 
